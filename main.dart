@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-// Ahmed Bilal
-//2380224
+// Amna Siddiqui
+//2380226
 void main() {
   runApp(const AdaptiveProfileApp());
 }
